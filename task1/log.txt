@@ -1,0 +1,11 @@
+commit 187c15efa870bdecf690138b3a6c1e4a5880e412 (HEAD -> master)
+Author: Vitalij <prokopenyavitalij@gmail.com>
+Date:   Wed Feb 17 00:28:15 2021 +0300
+
+    add status.txt
+
+commit 9d0e9d9110e8bf612d7a8ad7fb1d176233c13d31
+Author: Vitalij <prokopenyavitalij@gmail.com>
+Date:   Wed Feb 17 00:25:33 2021 +0300
+
+    add .gitignore
